@@ -1,5 +1,6 @@
 
 # Skill-Based Credentialing System
+![image](https://github.com/user-attachments/assets/8ada0cc4-808d-4a3c-ad23-a5d4ad54b788)
 
 ## Vision
 
