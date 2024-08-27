@@ -20,7 +20,6 @@ The Skill-Based Credentialing System is a decentralized platform designed to iss
    - Anyone can verify the authenticity of a certificate by querying the blockchain.
    - The certificate's details, including the student’s address, course name, instructor, and issue date, are returned.
 
-![Flowchart](https://example.com/flowchart.png) <!-- Add a link to your flowchart image or diagram here -->
 
 ## Contract Address
 
